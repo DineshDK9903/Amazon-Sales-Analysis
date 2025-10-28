@@ -7,6 +7,7 @@ Amazon Sales Analysis project focuses on exploring and visualizing Amazon sales 
 
 The Amazon Sales Analysis project aims to uncover insights from e-commerce sales data to understand key business trends, improve profitability, and identify customer purchasing patterns. The project involves end-to-end data analysis — from data loading and cleaning to dashboard creation and report presentation — providing a clear view of sales performance and growth opportunities.
 
+
 📊 Dataset
 
 Source: Public/Mock Amazon sales dataset
@@ -21,6 +22,7 @@ Key Columns:
 
 Order ID, Product, Category, Sales, Quantity, Profit, Region, Date
 
+
 🧰 Tools & Technologies
 
 Python – Data loading, exploration, and cleaning
@@ -32,6 +34,7 @@ Power BI – Interactive sales dashboard creation
 Gamma App – Final report and presentation design
 
 Jupyter Notebook / VS Code – Code development environment
+
 
 🔍 Project Steps
 
@@ -62,6 +65,7 @@ Summarized key findings and recommendations
 
 Created a clean, professional presentation for stakeholders
 
+
 📈 Dashboard Overview
 
 Power BI Dashboard Includes:
@@ -85,6 +89,7 @@ Observed peak sales during specific months (seasonal pattern)
 Highlighted products with low profit margins despite high sales
 
 Recommended focusing on profitable categories and optimizing underperforming ones
+
 
 ⚙️ How to Run
 
